@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Sukoon</string>
+    <string name="image_for_play">image for play</string>
+
+    <string name="notification_channel_name">Music Channel</string>
+
+    <string name="notification_channel_description">Shows the currently playing music</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password_here">Enter your password here</string>
+    <string name="password">Password</string>
+    <string name="enter_your_email_address_here">Enter your email address here</string>
+    <string name="email_address">Email Address</string>
+    <string name="register_now">Register Now!</string>
+
+    <string name="webclintId">"clientid": "629609351777-rfrad1a3a2h2jtvvs372oj8olvsqculj.apps.googleusercontent.com"</string>
+    <string name="register_here">Register Here!</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="logout">Logout</string>
+    <string name="open_drawer" />
+    <string name="close_drawer" />
+    <string name="welcome_to_sukoon">Welcome to Sukoon</string>
+</resources>

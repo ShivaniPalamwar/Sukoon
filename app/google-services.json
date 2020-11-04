@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629609351777",
+    "firebase_url": "https://sukoon-9b422.firebaseio.com",
+    "project_id": "sukoon-9b422",
+    "storage_bucket": "sukoon-9b422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629609351777:android:0a2e6a76b5e82211d87820",
+        "android_client_info": {
+          "package_name": "com.example.sukoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629609351777-rfrad1a3a2h2jtvvs372oj8olvsqculj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sukoon",
+            "certificate_hash": "f0844229523218e71913887f8762a2c9c8369567"
+          }
+        },
+        {
+          "client_id": "629609351777-3lnq5lscuscm8mboorbvkedic3caigqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJqjHQNSkNhniN7p3hyQ2IeWztHupbko4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629609351777-3lnq5lscuscm8mboorbvkedic3caigqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
